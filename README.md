@@ -1,2 +1,3 @@
 # C16_Invisible_Ink_Siddharth
-C16 Envision project repo
+this is the repo for the envision c16 project: invisible ink for Siddharth Chakravarthy.
+
